@@ -2,7 +2,7 @@
 I'm a Full Stack Developer studying at the **University of Pennsylvania** as a Junior in Systems Engineering. I am currenty self-learning data science:)
 
 ## Most Recent Projects
-> 🍴 [dineTab](https://dinetab.com/) - I just finished my internship with dineTab, a payment solution for restaurants. The app is available for download on both Google Play and App Store. 
+> 🍴 [dineTab](https://dinetab.com/) - I just finished my internship with dineTab, a payment solution app for restaurants. The app is available for download on both Google Play and App Store. 
 
 > 🐾 [Adoptr](https://github.com/GrandMothersill/adoptr) - I'm working with a friend to build a tinder-like web app for connecting animal lovers and adoptable animals.
 
