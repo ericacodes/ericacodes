@@ -1,7 +1,9 @@
 # Hi there, I'm Erica 👋🏼
-I'm a Full Stack Developer studying at the **University of Pennsylvania** as a Junior in Systems Engineering. I'm currently working as an apprentice mentor at [Lighthouse Labs](https://www.lighthouselabs.ca/), a coding bootcamp based in Canada. 
+I'm a Full Stack Developer studying at the **University of Pennsylvania** as a Junior in Systems Engineering. I am currenty self-learning data science:)
 
-## Current Projects
+## Most Recent Projects
+> 🍴 [dineTab](https://dinetab.com/) - I just finished my internship with dineTab, a payment solution for restaurants. The app is available for download on both Google Play and App Store. 
+
 > 🐾 [Adoptr](https://github.com/GrandMothersill/adoptr) - I'm working with a friend to build a tinder-like web app for connecting animal lovers and adoptable animals.
 
 > 🔎 Insta Scraper - I'm learning Python to help build an Instagram scraping tool for GenZ Designs, a marketing & advertising agency.
