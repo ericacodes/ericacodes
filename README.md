@@ -23,5 +23,5 @@ I'm a Full Stack Developer studying at the **University of Pennsylvania** as a J
 
 ## Connect with Me
 - [Email](mailto:ericasun@seas.upenn.edu) <br />
-- [LinkedIn](https://www.linkedin.com/in/ericasun-upenn/)
+- [LinkedIn](https://www.linkedin.com/in/ericacodes/)
 - Portfolio
